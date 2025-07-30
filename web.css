@@ -32,13 +32,3 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #005f73;
-}
-h1 {
-    font-size: 2rem; }
-    h1, h2, h3 {
-        margin: 0 0 1rem;
-        color :333;
-    font-weight: bold;
-    }
